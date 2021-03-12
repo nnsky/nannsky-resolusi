@@ -1,2 +1,4 @@
 nannsky resolusi
 - Konsisten untuk membuat konten 2x seminggu
+- Membuat portofolio yang up to date
+- Membuat website dengan PHP, HTML dan CSS
