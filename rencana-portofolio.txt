@@ -1,3 +1,6 @@
 rencana portofolio
 
 - membuat website portofolio html css
+- membuat detail personal info
+- membuat detail pendidikan
+- membuat detail pengalaman
